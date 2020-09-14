@@ -21,6 +21,6 @@ API routes for GET, POST, and DELETE are used in order to complete each action t
 
  The URL of depolyed app through Heroku: https://thawing-cove-89529.herokuapp.com/
 
-The URL of the GitHub repository: https://github.com/karunasato/note_taker.git
+The URL of the GitHub repository: https://karunasato.github.io/note_taker/
 
 
