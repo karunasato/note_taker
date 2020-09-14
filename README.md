@@ -19,7 +19,8 @@ The application uses express on the back-end to save and retrieve the data from 
 API routes for GET, POST, and DELETE are used in order to complete each action that the user wants to do withe the note. 
 
 
- The URL of depolyed app through Heroku:
-The URL of the GitHub repository:
+ The URL of depolyed app through Heroku: https://thawing-cove-89529.herokuapp.com/
+
+The URL of the GitHub repository: https://github.com/karunasato/note_taker.git
 
 
